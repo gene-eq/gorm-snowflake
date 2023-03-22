@@ -1,4 +1,4 @@
-module github.com/omixen/gorm-snowflake
+module github.com/gene-eq/gorm-snowflake
 
 go 1.19
 
